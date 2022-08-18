@@ -1,4 +1,7 @@
-/*
-    In this file, we'll be continuing our story
-    with Jon being allowed to flee his fight with Jamie.
-*/
+let backPack = []
+
+backPack.push('Jedi Robe')
+backPack.push('lightsaber')
+backPack.push('Crippling sense of failure and guilt')
+
+console.log(backPack)
